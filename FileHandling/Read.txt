@@ -1,4 +1,0 @@
-This is a sample file
-for demo of
-File I/O in Python
-programming language.
